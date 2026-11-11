@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# NetBeans caches and private settings
+.nb-cache/
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
+
+# Compiled / packaged files
+*.class
+*.jar
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

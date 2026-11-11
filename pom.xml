@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.uet.construction</groupId>
+    <artifactId>Lab04_ObjectRelationships_Student</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>Lab08_ObjectRelationships_Student</name>
+    <description>FleetOps - Aggregation, Composition and Representation Exposure (Lab 08)</description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- Works on JDK 17 or newer (NetBeans/JDK 21, 22 ... 26 are all fine) -->
+        <maven.compiler.release>17</maven.compiler.release>
+        <exec.mainClass>com.uet.construction.fleetops.FleetVerificationDriver</exec.mainClass>
+    </properties>
+</project>
